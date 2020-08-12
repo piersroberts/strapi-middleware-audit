@@ -1,0 +1,9 @@
+{
+  "name": "strapi-middleware-audit",
+  "version": "1.0.0",
+  "description": "A basic audit trail for things that are happening in the Strapi Admin",
+  "main": "lib/index.js",
+  "repository": "https://github.com/piersroberts/strapi-middleware-audit.git",
+  "author": "Piers Roberts",
+  "license": "MIT"
+}
